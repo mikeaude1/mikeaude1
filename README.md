@@ -7,7 +7,7 @@
 > I am Miguel and I am a computer systems engineer, I am from Chihuahua Mexico and I am very knowledgeable in software development. I am currently in several courses to develop my skills as a programmer in addition to other things.<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzmx5WnDnJw1xNCy29JxKEeb8FqS3LkmOA&s">
   <source media="(prefers-color-scheme: light)" srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGSzmx5WnDnJw1xNCy29JxKEeb8FqS3LkmOA&s">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/mikeaude1/mikeaude1/blob/main/audedevcom2.jpeg">
+  <img alt="audedev.com image" src="https://github.com/mikeaude1/mikeaude1/blob/main/audedevcom2.jpeg" higth="500">
 </picture>
 
 - 🔭 I’m currently FullStack Develpoer on:  UTCH (Technological University of Chihuahua)
