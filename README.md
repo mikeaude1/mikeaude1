@@ -4,7 +4,7 @@
 > I am Miguel and I am a computer systems engineer, I am from Chihuahua Mexico and I am very knowledgeable in software development. I am currently in several courses to develop my skills as a programmer in addition to other things.
 > 
 <p align="center">
-  <a href="https://audedev.com" target="_blank">
+  <a href="https://audedev.com" target="blank">
     <img src="https://github.com/mikeaude1/mikeaude1/raw/main/audedevcom2.jpeg" alt="audedev.com image" height="300" width="300" />
   </a>
 </p>
