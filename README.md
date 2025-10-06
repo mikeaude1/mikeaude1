@@ -43,6 +43,11 @@ Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de softwa
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
 <a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<br/>
+<a href="https://tortoisesvn.net/docs/"><img src="https://img.shields.io/badge/TortoiseSVN-0E90D2?style=for-the-badge" /></a>
+<a href="https://subversion.apache.org/"><img src="https://img.shields.io/badge/Subversion%20(SVN)-809CC9?style=for-the-badge" /></a>
+<a href="https://docs.navicat.com/"><img src="https://img.shields.io/badge/Navicat-3E863D?style=for-the-badge" /></a>
+<a href="https://firebase.google.com/docs"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /></a>
 
 </div>
 
@@ -105,6 +110,10 @@ Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de softwa
 - HTML (MDN): https://developer.mozilla.org/docs/Web/HTML
 - CSS (MDN): https://developer.mozilla.org/docs/Web/CSS
 - MySQL (docs): https://dev.mysql.com/doc/
+- TortoiseSVN (docs): https://tortoisesvn.net/docs/
+- Subversion (SVN) (site): https://subversion.apache.org/
+- Navicat (docs): https://docs.navicat.com/
+- Firebase (docs): https://firebase.google.com/docs
 
 ---
 
