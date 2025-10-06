@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/mikeaude1/mikeaude1/raw/main/audedevcom2.jpeg" alt="audedev.com image" height="220" width="220">
+<img src="https://github.com/mikeaude1/mikeaude1/raw/main/audedevcom4.jpeg" alt="audedev.com image" height="220" width="220">
 
 # Hola, soy Miguel Aude — FullStack Developer
 
