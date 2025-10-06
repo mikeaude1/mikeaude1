@@ -6,7 +6,6 @@
 
 Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de software, arquitecturas limpias y aprendizaje continuo.  
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Aude-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-aude-845aa4205/)
 [![Instagram](https://img.shields.io/badge/Instagram-@miguelaude-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/miguelaude/)
 [![Facebook](https://img.shields.io/badge/Facebook-Miguel%20Aude-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/MiguelAude)
@@ -31,19 +30,19 @@ Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de softwa
 ## 🧠 Tecnologías y herramientas
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Play%20Framework-2C8E3B?style=for-the-badge&logo=playwright&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+<a href="https://docs.oracle.com/en/java/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+<a href="https://www.playframework.com/documentation/latest/"><img src="https://img.shields.io/badge/Play%20Framework-2C8E3B?style=for-the-badge&logo=playwright&logoColor=white" /></a>
+<a href="https://docs.python.org/3/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href="https://docs.djangoproject.com/en/stable/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
+<a href="https://nodejs.org/en/docs/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="https://angular.io/docs"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" /></a>
+<a href="https://www.typescriptlang.org/docs/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://api.jquery.com/"><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /></a>
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+<a href="https://dev.mysql.com/doc/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 
 </div>
 
@@ -94,10 +93,18 @@ Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de softwa
 ---
 
 ## 📝 Links que uso frecuentemente
-- Play Framework: https://www.playframework.com/documentation/1.2.4/home
-- jQuery: https://jquery.com/
-- Django (docs): https://docs.djangoproject.com/
-- Python (docs): https://docs.python.org/
+- Java (docs): https://docs.oracle.com/en/java/
+- Play Framework (docs): https://www.playframework.com/documentation/latest/
+- Python (docs): https://docs.python.org/3/
+- Django (docs): https://docs.djangoproject.com/en/stable/
+- Node.js (docs): https://nodejs.org/en/docs/
+- Angular (docs): https://angular.io/docs
+- JavaScript (MDN): https://developer.mozilla.org/docs/Web/JavaScript
+- TypeScript (docs): https://www.typescriptlang.org/docs/
+- jQuery (API): https://api.jquery.com/
+- HTML (MDN): https://developer.mozilla.org/docs/Web/HTML
+- CSS (MDN): https://developer.mozilla.org/docs/Web/CSS
+- MySQL (docs): https://dev.mysql.com/doc/
 
 ---
 
