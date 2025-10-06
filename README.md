@@ -6,7 +6,7 @@
 
 Ingeniero en Sistemas de Chihuahua, México. Apasionado del desarrollo de software, arquitecturas limpias y aprendizaje continuo.  
 
-[![Portfolio](https://img.shields.io/badge/Website-audedev.com-181717?style=for-the-badge&logo=google-chrome)](https://audedev.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Miguel%20Aude-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-aude-845aa4205/)
 [![Instagram](https://img.shields.io/badge/Instagram-@miguelaude-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/miguelaude/)
 [![Facebook](https://img.shields.io/badge/Facebook-Miguel%20Aude-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/MiguelAude)
